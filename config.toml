@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "your_site_url_address"
+baseurl = "ragnir.netlify.com"
 languageCode = "en"
 title = "C.G. Ragnar"
 theme = "hugo-theme-cactus-plus"
