@@ -1,11 +1,12 @@
 +++
 categories = ["", "Lifestyle"]
 date = "2018-04-10T05:38:58+00:00"
+description = "How much time do you spend per week making your own food?"
 tags = ["Efficiency"]
 title = "How to get a private chef for 255$ per month"
-description = "How much time do you spend per week making your own food?"
+
 +++
-![Example of a foodbox I would receive from my chef.](/uploads/2018/04/10/privatechef.jpg "Foodbox")
+![Example of a foodbox I would receive from my chef.](/uploads/2018/04/10/privatechef.jpg "A box of food for $4")
 
 How much time do you spend per week making your own food?
 
