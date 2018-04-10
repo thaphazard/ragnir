@@ -1,14 +1,22 @@
 +++
 date = "2018-04-08T14:02:37+02:00"
-title = "About"
-hidden = true
 disabledisqus = "true"
+hidden = true
+title = "About"
 
 +++
-I am C.G Ragnar. I write stuff.
+I am C.G Ragnar. I want to expand what you dare to ask of life.
 
 ---
 
-### What kind of stuff?
+### What?
 
-Books, advice on travelling light and freeing up your time. Building the courage to pursue your dreams.
+Too many people live with limits on what they can and can't do, what they will or won't try.
+
+They put limits on themselves, their dreams and their goals.
+
+I say Fuck That.
+
+Nothing is beyond you; it all comes down to believing. 
+
+I'll help you build that Unshakable Faith and open your eyes to new possibilities.
