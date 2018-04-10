@@ -7,11 +7,10 @@ tags = [""]
 title = "A Beginner's One Bag Travel Packing List"
 
 +++
+> _“Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.” //_**Antoine de Saint-Exupery.**
 
-> _“Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.”_  
->
-> **Antoine de Saint-Exupery.**  
+{{< instagram BggyQLUg5__ hidecaption >}}
 
-{{< instagram BggyQLUg5__ hidecaption >}} 
+Travelling light is great.
 
-Travelling light is great. 
+> _“It is preoccupation with possession, more than anything else, that prevents men from living freely and nobly.”_  //**Bertrand Russell.** 
