@@ -5,6 +5,8 @@ tags = ["Efficiency"]
 title = "How to get a private chef for 255$ per month"
 
 +++
+![Example of a foodbox I would receive from my chef.](/uploads/2018/04/10/privatechef.jpg "Foodbox")
+
 How much time do you spend per week making your own food?
 
 I’m willing to bet it’s more than you think.
@@ -94,13 +96,13 @@ Then use some other social media of your choice. Or go medieval and post a flyer
 
 ## Common Questions
 
-1. _“ Why would someone become your chef for so little money?!”_
+* _“ Why would someone become your chef for so little money?!”_
 
 Because the chef is cooking food anyway for themselves and their family. Making one additional serving takes a marginal amount of extra time. So making 1-2$ per meal quickly pays for the ingredients. If the chef scales this up to serve 4-5 extra people per meal that’s starting to look like a nice side hustle.
 
 Naturally the chef should pay taxes on this, but that’s none of your concern.
 
-2. _“how do you handle deliveries?”_
+* _“How do you handle deliveries?”_
 
 Good question. I chose to give my chef 12 boxes with secure lids, in addition to several smaller ones made of plastic. I delivered these myself because I enjoyed the walk, and it was on the way to work.
 
