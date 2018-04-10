@@ -3,7 +3,7 @@ baseurl = "/"
 languageCode = "en"
 title = "C.G. Ragnar"
 theme = "hugo-theme-cactus-plus"
-googleAnalytics = "your_google_analytics_id"
+googleAnalytics = "UA-117242206-1"
 # Set the value to true if your site include CJK (Chinese, Japanese, and Korean languages) characters
 hasCJKLanguage = false
 
@@ -12,8 +12,8 @@ hasCJKLanguage = false
 	description = "Writing helpful things"
 	bio = "Traveling writer, not travel writer."
 
-	twitter = "your_twitter_id"
-	facebook = "your_facebook_id"
+	twitter = "CGRagnar"
+	facebook = "gustaf.crafoord"
 
 	enableRSS = true
 	enableToc = true
@@ -32,7 +32,7 @@ hasCJKLanguage = false
 	# Set the value to your baidu analysis code if you want to use baidu analytics
 	baiduAnalytics = 'your_baidu_analysis_code'
 
-	enableTwitterCard = true
+	enableTwitterCard = false
 	# The url for twitter card image, default is avatar.png in static/images directory
 	twitterCardImage = ""
 
@@ -69,11 +69,11 @@ hasCJKLanguage = false
 	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
 	iconFont = "font-awesome"
   # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
-  socialIconStyle = ""
+  socialIconStyle = "empty"
 
 
 # Add additional social link entries underneath
 [social]
-	facebook-square = "https://www.facebook.com/nodejh"
-	twitter-square = "https://www.twitter.com/nodejh"
-	github-square = "https://www.github.com/nodejh"
+	facebook-square = "https://www.facebook.com/gustaf.crafoord"
+	twitter-square = "https://twitter.com/CGRagnar"
+	github-square = "https://github.com/thaphazard/ragnir"
