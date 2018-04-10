@@ -1,7 +1,7 @@
 +++
 categories = ["", "Lifestyle"]
 date = "2018-04-10T05:38:58+00:00"
-description = "How much time do you spend per week making your own food?"
+description = "How much time do you waste per week making your own food?"
 tags = ["Efficiency"]
 title = "How to get a private chef for 255$ per month"
 
@@ -79,10 +79,12 @@ This is a no brainer and the only reason more people don’t do this is FEAR and
 
 I would start by looking for Buy and Sell groups on Facebook. Search for the name of your city or neighborhood. Then you could post something like this:
 
-> _“BUYING: FOOD - Lunch/Dinner_
-> _250$_
-> _(Name of City)_
-> _Hi,_
+> _“BUYING: FOOD - Lunch+Dinner_<br/>
+>
+> _250$_<br/>
+>
+> _(Name of City)_<br/>  
+> _Hi,_  
 > _I’m looking for someone who wants to cook food for me long-term for around 250$ per month, 2 meals per day (roughly 4$ per meal). But let’s start with a trial period of one week and see how we get along._
 >
 > _I’ll deliver clean glass boxes every other day and pick up food for the next two days at the same time._
