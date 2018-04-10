@@ -8,9 +8,9 @@ googleAnalytics = "your_google_analytics_id"
 hasCJKLanguage = false
 
 [params]
-	author = "site_author"
-	description = "Site Description"
-	bio = "author biography"
+	author = "Ragnar"
+	description = "Writing helpful things"
+	bio = "Traveling writer, not travel writer."
 
 	twitter = "your_twitter_id"
 	facebook = "your_facebook_id"
@@ -19,7 +19,7 @@ hasCJKLanguage = false
 	enableToc = true
 
 	enableDisqus = true
-	disqusShortname = "your_disqus_short_name"
+	disqusShortname = "Ragnir"
 
 
 	enableSummary = true
