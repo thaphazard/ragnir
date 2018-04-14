@@ -1,11 +1,13 @@
 ---
 pages:
+- posts/this-is-the-reason-you-are-not-pursuing-your-dreams.md
 - posts/complete-faith.md
 - posts/why-motivation-is-bullshit.md
 - posts/developing-the-courage-to-step-into-the-unknown.md
 - posts/a-beginner-s-one-bag-travel-packing-list.md
 - posts/how-to-get-a-private-chef-for-255--per-month.md
 hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title
