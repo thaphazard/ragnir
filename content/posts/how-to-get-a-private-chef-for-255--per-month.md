@@ -115,4 +115,4 @@ Sometimes my chef would deliver to my home, or to my workplace. Anything is poss
 
 ## Conclusion
 
-**Spend your time doing things you’re good at. The world doesn’t need 7 billion chefs.**
+**Spend your time doing things you’re good at. Build Something. The world doesn’t need 7 billion chefs.**
