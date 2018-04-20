@@ -24,9 +24,9 @@ Chances are you're already building something. It's how the world works.
 
 But it might not be your own thing.
 
-You get paid for building things that help people - that's all money is. If you have money, you've been building something for people.
+You get paid for building things that help people - that's all money is. If you have money, you've been building something for someone.
 
-By being employed you're more like a cog in a machine rather than the architect. And there's nothing wrong with that. It's a good way to learn, to safely experience things until you find your own mission. But don't expect to be remembered, or even greatly rewarded, for being the cog in someone else's machine.
+By being employed you're more like a cog in a machine rather than an architect though. And there's nothing wrong with that. It's a good way to learn, to safely experience things until you find your own mission. But don't expect to be remembered, or even greatly rewarded, for being the cog in someone else's machine.
 
 > You need to design the machine. Captain the ship. Only then can you reap the greatest rewards - both in terms of money and personal achievement.
 
