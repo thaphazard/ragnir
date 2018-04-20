@@ -179,3 +179,11 @@ Move things to here from the inbox when you're not sure if they need to be done 
 ![](/uploads/2018/04/20/Screenshot_20180420-134719.png)
 
 I include "plan B"'s and possible pivots here. If you figure out your current project is doomed to fail, perhaps these "maybe's" will help salvage the progress you've made and inspire you to apply it towards completing some other project.
+
+# Conclusion
+
+Getting started with this new system, as with any habit, will be hard.
+
+Ultimately though, it will be worth it for your productivity. 
+
+For an extra kick in the butt, you can share your Trello board with a few close friends that keep you accountable. Self-imposed social pressure is one of the best cures for procrastination
