@@ -58,7 +58,7 @@ That's backwards. It's:
 
 And how do you become better? Not by being stuck in the tutorial.
 
-I'll help you develop into that. That's what I'm building right now. A resource to inspire and guide you to become the greatest You.
+I'll help you develop. That's what I'm building right now. A resource to help, guide and inspire you to become the greatest You.
 
 Read on, and be ready to:
 
