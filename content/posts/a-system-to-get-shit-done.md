@@ -70,7 +70,7 @@ That's why you need to write **WHY** this is a goal you have.
 
 Example:
 
-> "GOAL 1 - Earn $12,000 / Month before 2020 - to raise my daughter better & provide her with everything she needs, travel through Mongolia on horseback, invest in my dream house and build this kitchen (Picture), eat sushi every Friday without thinking about the cost."
+> "GOAL 1 - Earn $12,000 / Month before 2020 - to raise my future children & provide them with everything they need, travel through Mongolia on horseback, invest in my dream house and build this kitchen (Picture), eat sushi every Friday without thinking about the cost."
 
 Money is not a fulfilling or motivating goal compared to what you want to **USE IT FOR**. If you think so, you don't know what you want yet.
 
