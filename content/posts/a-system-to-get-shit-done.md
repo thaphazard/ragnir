@@ -6,7 +6,15 @@ tags = ["", "Productivity", "Planning", "Tools"]
 title = "A System to Get Shit Done"
 
 +++
-> Do you get distracted easily from your goals?
+Recently, I have tripled the amount of shit I get done in a week.
+
+...and I still work the same number of hours.
+
+I did it all through a free tool called Trello.
+
+This guide to productivity through Trello is for you if you want to wake up knowing exactly what needs to be done and feel excited to do it.
+ 
+> Do you get easily distracted from your goals?
 >
 > Do you procrastinate?
 >
@@ -24,13 +32,11 @@ That's why we need a clear system to keep us efficient, even when our minds are 
 
 Motivation is fickle - it depends on **dopamine** and we need to game the shit out of it and use it to our advantage and stop procrastinating.
 
-This system is for you if you want to wake up knowing exactly what needs to be done and feel excited to do it.
-
 # A System for Laser-like Focus
 
 ![](/uploads/2018/04/20/GetShitDone.jpg)_Kudos to_ [_LightHouse_](https://www.thefastlaneforum.com/community/threads/achieve-laser-focus-productivity-with-the-system-legendary-fastlaners-use.67028/ "Read the original post") _on The Fastlane Forum._
 
-This is what your system will look like. [Here's a link my template](https://trello.com/b/uDemnUcq/ "Trello  - Get Shit Done System") (use their app if you're on mobile). Copy the template to your own account to get started.
+This is what your system will look like in Trello. [Here's a link my template](https://trello.com/b/uDemnUcq/ "Trello  - Get Shit Done System") (use their app if you're on mobile). Copy the template to your own account to get started.
 
 Creating the habit to use it daily will be hard in the beginning, but ultimately worth it.
 
@@ -184,6 +190,6 @@ I include "plan B"'s and possible pivots here. If you figure out your current pr
 
 Getting started with this new system, as with any habit, will be hard.
 
-Ultimately though, it will be worth it for your productivity. 
+Ultimately though, it will be worth it for your productivity.
 
 For an extra kick in the butt, you can share your Trello board with a few close friends that keep you accountable. Self-imposed social pressure is one of the best cures for procrastination
