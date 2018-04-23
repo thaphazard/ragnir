@@ -14,7 +14,7 @@ I did it all through a free tool called Trello.
 
 This guide to productivity through Trello is for you if you want to wake up knowing exactly what needs to be done and feel excited to do it.
  
-> Do you get distracted easily from your goals?
+> Do you get easily distracted from your goals?
 >
 > Do you procrastinate?
 >
