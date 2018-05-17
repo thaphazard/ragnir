@@ -49,7 +49,7 @@ Without coherent, matching ads and landing pages, your visitors won’t trust yo
 
 ## 2. Clear Call-to-Action
 
-\*\*A landing page should have ONE goal.
+**A landing page should have ONE goal.**
 
 This means ONE link and ONE conversion goal.
 
@@ -77,7 +77,7 @@ A landing page is supposed to be a complete solution for getting visitors to con
 
 ## 3. Targeted Traffic
 
-\*\* Landing pages don't convert - Visitors do.
+**Landing pages don't convert - Visitors do.**
 
 That's why we targeting specific social media segments, retargeting website visitors, and blast email subscribers to get high conversion rates. By tailoring landing page for each audience we unlock those 20%+ conversion rates.
 
@@ -95,7 +95,7 @@ Let me explain:
 
 ## 4. Low Cost Per Lead
 
-\*\*A good landing pages lowers the cost of ads - while increasing conversion rates.
+**A good landing pages lowers the cost of ads - while increasing conversion rates.**
 
 Bad landing pages are penalized by Google, resulting in lower ad visibility, less traffic, and more expensive cost per click.
 
