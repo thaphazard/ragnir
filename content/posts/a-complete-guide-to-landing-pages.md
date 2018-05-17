@@ -13,7 +13,7 @@ Your landing page is a virtual elevator pitch. It’s a one-page summary of your
 
 Let's have a look at the most important things that affect conversion rates.
 
-## 1. Coherent Ads
+## 1. Relevant Ads
 
 **Visitor expectations need to be met - from ad to purchase. Copy, branding and imagery need to be relevant and coherent.**
 
@@ -49,7 +49,7 @@ Without coherent, matching ads and landing pages, your visitors won’t trust yo
 
 ## 2. Clear Call-to-Action
 
-**A landing page should have ONE goal.
+\*\*A landing page should have ONE goal.
 
 This means ONE link and ONE conversion goal.
 
@@ -87,15 +87,15 @@ For example, studies show that personalized emails generate [six times more tran
 
 Let me explain:
 
->When a subscriber clicks on an offer in an email and is taken to a landing page, he or she is focused on ONE thing - getting what they were promised in the email.
+> When a subscriber clicks on an offer in an email and is taken to a landing page, he or she is focused on ONE thing - getting what they were promised in the email.
 >
->What happens if there isn’t a specific landing page for the email offer? Most likely the subscriber is taken to the homepage, or a product page full of a dozen other links, tab, and images. All of these things are distracting the subscriber from following through with the action outlined in the email.
+> What happens if there isn’t a specific landing page for the email offer? Most likely the subscriber is taken to the homepage, or a product page full of a dozen other links, tab, and images. All of these things are distracting the subscriber from following through with the action outlined in the email.
 >
->That’s why landing pages are effective. They help visitors get what they came for and allows him or her to take action.
+> That’s why landing pages are effective. They help visitors get what they came for and allows him or her to take action.
 
 ## 4. Low Cost Per Lead
 
-**A good landing pages lowers the cost of ads - while increasing conversion rates.
+\*\*A good landing pages lowers the cost of ads - while increasing conversion rates.
 
 Bad landing pages are penalized by Google, resulting in lower ad visibility, less traffic, and more expensive cost per click.
 
@@ -113,5 +113,3 @@ Here's a graph that shows the Adwords cost per click drop when using a dedicated
 _Source: Jacob Baadsgaard of_ [_Disruptive Advertising _](https://instapage.com/blog/advertising-agency-accelerated-growth-with-landing-pages "Read more")
 
 A low cost per lead is the result of creating the perfect landing page. This is naturally increasingly important the larger your budget.
-
-
