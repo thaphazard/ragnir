@@ -2,6 +2,7 @@
 categories = []
 date = "2018-05-17T03:13:59+00:00"
 description = "Your landing page is a virtual elevator pitch. Let's have a look at the most important things that affect conversion rates."
+draft = true
 tags = [""]
 title = "Four Essential Landing Page Learnings"
 
@@ -12,7 +13,7 @@ Your landing page is a virtual elevator pitch. It’s a one-page summary of your
 
 Let's have a look at the most important things that affect conversion rates.
 
-## 1. Relevant Ads
+## 1. Stay Relevant
 
 **Visitor expectations need to be met - from ad to purchase. Copy, branding and imagery need to be relevant and coherent.**
 
