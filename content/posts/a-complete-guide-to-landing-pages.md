@@ -4,7 +4,7 @@ date = "2018-05-17T03:13:59+00:00"
 description = "Your landing page is a virtual elevator pitch. Let's have a look at the most important things that affect conversion rates."
 draft = true
 tags = [""]
-title = "Four Essential Landing Page Learnings"
+title = "Four Essential Landing Page Learnings old"
 
 +++
 A landing page is a standalone web page, disconnected from a website’s navigation, created for the sole purpose of convincing a visitor to act.
