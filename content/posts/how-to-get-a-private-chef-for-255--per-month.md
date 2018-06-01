@@ -1,7 +1,8 @@
 +++
 categories = ["", "Lifestyle"]
-date = "2018-04-10T05:38:58+00:00"
+date = "2018-04-10T05:38:58Z"
 description = "How much time do you waste per week making your own food?"
+draft = true
 tags = ["Efficiency"]
 title = "How to get a private chef for 255$ per month"
 

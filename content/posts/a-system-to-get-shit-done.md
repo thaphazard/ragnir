@@ -1,7 +1,8 @@
 +++
 categories = [""]
-date = "2018-04-20T02:51:52+00:00"
+date = "2018-04-20T02:51:52Z"
 description = "How to use Trello for productivity"
+draft = true
 tags = ["", "Productivity", "Planning", "Tools"]
 title = "A System to Get Shit Done"
 
