@@ -2,6 +2,7 @@
 categories = ["", "Dear Diary"]
 date = "2018-05-25T11:15:06+00:00"
 description = [""]
+draft = true
 tags = ["", "Belief"]
 title = "The birthplace of action (and how to keep going)"
 
