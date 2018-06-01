@@ -1,7 +1,8 @@
 +++
 categories = []
-date = "2018-04-19T01:26:23+00:00"
+date = "2018-04-19T01:26:23Z"
 description = "To leave a legacy, you need to do this."
+draft = true
 tags = ["Inspiration"]
 title = "Build Something Meaningful"
 
