@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Site settings
 baseurl = "/"
 languageCode = "en"
@@ -8,12 +9,12 @@ googleAnalytics = "UA-117242206-1"
 hasCJKLanguage = false
 
 [params]
-	author = "Ragnar"
-	description = "Helping you get shit done"
-	bio = "Helping you get shit done"
+	author = "Capt. Ragnar"
+	description = "Inspiring Adventure"
+	bio = "For a life worth living"
 
 	twitter = "CGRagnar"
-	facebook = "gustaf.crafoord"
+	facebook = "Gustaf.Crafoord"
 
 	enableRSS = true
 	enableToc = true
@@ -46,8 +47,8 @@ hasCJKLanguage = false
 	# Navigation links
 	home = ""
 	about = ""
-	archive = ""
-	subscribe = ""
+	archive = "Adventure Plans"
+	subscribe = "Forum"
 
 	olderPosts = ""
 	newerPosts = ""
@@ -76,4 +77,7 @@ hasCJKLanguage = false
 [social]
 	facebook-square = "https://www.facebook.com/gustaf.crafoord"
 	twitter-square = "https://twitter.com/CGRagnar"
-	github-square = "https://github.com/thaphazard/ragnir"
+	github-square = "empty"
+=======
+
+>>>>>>> 79dddd4b376ee648d935040e06cb1d0b9c0bf819
