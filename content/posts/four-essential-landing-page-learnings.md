@@ -2,6 +2,7 @@
 categories = [""]
 date = "2018-05-03T06:39:37+00:00"
 description = "Your landing page is a virtual elevator pitch. Let's have a look at the most important things that affect conversion rates."
+draft = true
 tags = [""]
 title = "Four Essential Landing Page Learnings"
 
