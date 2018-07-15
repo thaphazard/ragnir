@@ -1,10 +1,10 @@
 +++
-categories = ["", "Travel"]
+categories = ["Advice"]
 date = "2018-04-09T07:33:12+00:00"
 description = "How I packed my 30L bag "
 draft = true
-tags = ["", "Travel"]
-title = "A Beginner's One Bag Travel Packing List"
+tags = ["One Bag"]
+title = "What do You Pack when one-bagging?"
 
 +++
 > _“Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.” //_**Antoine de Saint-Exupery.**
@@ -19,26 +19,18 @@ Travelling with one bag is bliss. You'll be spoiled with the following advantage
 
 ## My Packing List
 
+Here's a picture of everything I travel with:
+
 {{< instagram BggyQLUg5__ hidecaption >}}
 
-### Clothes
+I won't go through everything I pack - it's pretty self evident from the image :)
 
-Merino wool is amazing. It's odor resistant, temperature regulating, easily washable by hand, lasts long (if taken well care of) and very comfortable to wear.
+But I will say one thing - Merino wool is amazing. 
 
-Unlike normal wool it doesn't become itchy against bare skin. That's because the fibers are very fine. Highly recommended. 
+It's odor resistant, temperature regulating, easily washable by hand, lasts long (if taken well care of) and very comfortable to wear.
 
-* asd
+Unlike normal wool it doesn't become itchy against bare skin. That's because the fibers are very fine. Highly recommended.
 
-### Electronics
-
-* [Travel adapter](https://amzn.to/2qm1hom)
-
-### Hygiene
-
-* 
-
-### Other
-
-* 
+It has allowed me to bring very few pieces of clothing, while still being clean and comfortable.
 
 > _“It is preoccupation with possession, more than anything else, that prevents men from living freely and nobly.”_  //**Bertrand Russell.**

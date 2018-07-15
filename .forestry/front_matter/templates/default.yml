@@ -37,10 +37,10 @@ fields:
   config:
     required: false
 pages:
+- content/posts/a-beginner-s-one-bag-travel-packing-list.md
 - content/posts/how-to-hack-your-dopamine-for-greater-motivation.md
 - content/posts/why-chasing-money-makes-you-poor.md
 - content/posts/how-to-get-a-private-chef-for-255--per-month.md
-- content/posts/a-beginner-s-one-bag-travel-packing-list.md
 - content/posts/why-motivation-is-bullshit.md
 - content/posts/this-is-the-reason-you-are-not-pursuing-your-dreams.md
 - content/posts/a-complete-guide-to-landing-pages.md
