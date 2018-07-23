@@ -2,6 +2,7 @@
 categories = ["Advice"]
 date = "2018-04-09T07:33:12+00:00"
 description = "How I packed my 30L bag "
+draft = true
 tags = ["One Bag"]
 title = "What do You Pack when one-bagging?"
 
